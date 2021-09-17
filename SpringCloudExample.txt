@@ -1,0 +1,13 @@
+prerequsites:
+Spring Cloud,Spring , Spring boot, Lombok
+
+Using Spring cloud config create a rest controller application to view the products 
+product class is pojo class you will use lombok annotation. 
+
+============================================================
+https://zetcode.com/springboot/restcontroller/
+https://quarkus.io/guides/spring-cloud-config-client
+https://howtodoinjava.com/spring-cloud/spring-cloud-config-server-git/
+
+
+ 
